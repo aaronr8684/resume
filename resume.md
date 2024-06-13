@@ -17,9 +17,9 @@ Seasoned engineer with 15 years of experience in developing customer-focused sol
 **SKILLS**
 
 - **Programming Languages**: Python, Groovy, SQL, PowerShell, Bash, AutoIt
-- **DevOps Tools**: Ansible, Jenkins, PowerBI, Tableau, Git, GitHub, CI/CD, Docker, Azure
+- **DevOps Tools**: Ansible, Jenkins, Azure, PowerBI, Tableau, Git, GitHub, CI/CD, Docker
 - **Operating Systems**: Windows, Linux, MacOS
-- **Certifications**: ISTQB, SAFe DevOps, Fortinet NSE4, CCNA
+- **Certifications**: Azure, ISTQB, SAFe DevOps, Fortinet NSE4, CCNA
 - **Other**: AI/ML, Rest/Soap APIs, Agile Methodologies, Systems Engineering, Hardware
 
 ---
