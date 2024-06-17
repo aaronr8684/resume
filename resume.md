@@ -32,10 +32,10 @@ Seasoned engineering leader with 5+ years of experience managing and mentoring t
 - Spearheaded DevOps initiatives using Ansible, Python, and Groovy for infrastructure and configuration automation.
 - Led a tactical team to deploy a PowerBI and MSSQL powered dashboard to identify and remediate expiring certificate to minimize related outages.
 - Managed and optimized Jenkins CI/CD pipelines ensuring production scalability, stability, and compliance.
-- Extracted, consolodated, and modularized repeated code into a common consumable library for increased effiencency and maintainability.
+- Extracted, consolidated, and modularized repeated code into a common consumable library for increased efficiency and maintainability.
 - Mentored engineers through regular peer programming, code reviews, and 1-on-1s, instilling best practices and technical expertise.
 - Identified and shared opportunities for improvement at the individual and team levels.
-- Regularly advised external teams in best practices, feedback, and architechture discussions.
+- Regularly advised external teams in best practices, feedback, and architecture discussions.
 
 **Systems Engineer**  
 *Aetna / CVS Health, Greenville, South Carolina*  
