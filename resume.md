@@ -70,4 +70,3 @@ Seasoned engineering leader with 5+ years of experience managing and mentoring t
 
 **B.S. Computer Science**
 *Bowling Green State University, Bowling Green, Ohio*
-*Graduated: 2009*
