@@ -6,14 +6,14 @@ robinsonam@gmail.com | 330-620-6093 | Greenville, South Carolina | [linkedin.com
 
 **PROFESSIONAL SUMMARY**
 
-Seasoned engineering leader with 5+ years of experience managing and mentoring teams with diverse skills, developing customer-focused solutions, and optimizing automation processes. Proven track record in fostering cross-functional collaboration, guiding junior engineers, and driving the architectural design of scalable DevOps solutions. Skilled in Python, Ansible, CI/CD pipelines, and data analytics, with a strong focus on team leadership and project management.
+Seasoned engineering leader with experience managing and mentoring teams with diverse skills, developing customer-focused solutions, and optimizing automation processes. Proven track record in fostering cross-functional collaboration, guiding junior engineers, and driving the architectural design of scalable DevOps solutions. Skilled in Python, Ansible, CI/CD pipelines, and data analytics, with a strong focus on team leadership and project management.
 
 ---
 
 **SKILLS**
 
 - **Programming Languages**: Python, Go, Groovy, SQL, PowerShell, Bash, AutoIt
-- **DevOps Tools**: Ansible, Jenkins, Azure, GCP, PowerBI, Tableau, Git, GitHub, CI/CD, Docker
+- **DevOps Tools**: Ansible, Jenkins, Docker, Azure, GCP, PowerBI, Tableau, Git, GitHub, CI/CD
 - **Operating Systems**: Windows, Linux, MacOS
 - **Certifications**: Azure, ISTQB, SAFe DevOps, Fortinet NSE4, CCNA
 - **Other**: AI/ML, Rest/Soap APIs, Agile Methodologies, Systems Engineering, Hardware
