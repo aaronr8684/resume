@@ -12,9 +12,9 @@ Engineering leader with deep experience guiding cross-functional teams, mentorin
 
 **SKILLS**
 
-- **Programming Languages**: Python, Go, Groovy, SQL, PowerShell, Bash, AutoIt
-- **Frameworks**: Django, FastAPI, Ansible, Pandas, NumPy, PIL, REST APIs, SOAP, Pytest
-- **DevOps & Cloud**: Docker, Jenkins, CI/CD, Git, GitHub, Azure (incl. Azure Entra ID), GCP, PowerBI, Tableau, ServiceNow
+- **Programming Languages**: Python, Javascript, Go, Groovy, SQL, PowerShell, Jinja, Bash, AutoIt
+- **Frameworks**: Django, FastAPI, Ninja, Ansible, Pandas, NumPy, PIL, REST APIs, SOAP, Pytest
+- **DevOps & Cloud**: Docker, Jenkins, CircleCI, Github Actions, CI/CD, Git, GitHub, Azure (incl. Azure Entra ID), GCP, PowerBI, Tableau, ServiceNow
 - **Testing & QA**: ISTQB Certified, SAFe DevOps, Automation (AutoIt, Pytest), BDD principles
 - **AI/ML**: AI/ML Concepts, Prompt Engineering, Vertex/Gemini, OpenAI
 - **Certifications**: Azure, ISTQB, SAFe DevOps, Fortinet NSE4, CCNA
@@ -25,7 +25,8 @@ Engineering leader with deep experience guiding cross-functional teams, mentorin
 
 **RECENT SIDE PROJECTS**
 
-- **Reverse Engineering** – Analyzed NFC and ESP32-based hardware and mobile app APIs using Ghidra, Burp Suite, and Frida for low-level protocol understanding and behavior replication.
+- **Automation** - Developed scripts for QRCode generation and 12-month calendar creation from event lists.
+- **Reverse Engineering** – Analyzed NFC and ESP32-based hardware and mobile app APIs using Ghidra, Burp Suite, and Frida for low-level protocol understanding and Restful API behavior sniffing, spoofing, and replication.
 - **Photo Frame** – Built a smart photo frame with a Raspberry Pi, Python, and Nextcloud integration for automated syncing and display of personal media.
 - **Parser Scripts** – Developed Python scripts for parsing and analyzing images, logs, and raw datasets using libraries such as PIL, NumPy, and Pandas for downstream consumption by analytics applications.
 - **Automated Pi Setup** – Created an Ansible playbook to fully automate Raspberry Pi provisioning, enabling rapid deployment for new projects.
@@ -37,7 +38,9 @@ Engineering leader with deep experience guiding cross-functional teams, mentorin
 **Sr Software Development Engineer / Team Lead** | *CVS Health* | *Greenville, South Carolina*
 
 *January 2022 - Present*
+- Created a unified employee experience dashboard using Aternity DEX metrics combined with other external data sources.
 - Modernized a legacy VB.NET application by rebuilding it with Django and Django REST Framework to enable efficient querying of LDAP and Azure Entra ID objects.
+- Supported and maintained multiple IIS .Net web services for business critical APIs using XML.
 - Developed multiple Django-based Dockerized applications to address key customer challenges and improve user experience.
 - Led a team in developing a proof-of-concept AI chatbot using Django, FastAPI, and MongoDB to automate documentation, agile epic/story generation, test data creation, and system diagramming.
 - Developed an in-house code testing methodology and automated exercise suite for Python, SQL, JavaScript, and Go, streamlining technical evaluations for hiring.
