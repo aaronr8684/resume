@@ -25,6 +25,7 @@ Engineering leader with deep experience guiding cross-functional teams, mentorin
 
 **RECENT SIDE PROJECTS**
 
+- **Manufacturing** - Design and manufacture precision components using parametric CAD (Autodesk Fusion 360) and FDM/resin additive processes, optimizing for tolerance, strength, and small-batch production efficiency.
 - **Automation** - Developed scripts for QRCode generation and 12-month calendar creation from event lists.
 - **Reverse Engineering** – Analyzed NFC and ESP32-based hardware and mobile app APIs using Ghidra, Burp Suite, and Frida for low-level protocol understanding and Restful API behavior sniffing, spoofing, and replication.
 - **Photo Frame** – Built a smart photo frame with a Raspberry Pi, Python, and Nextcloud integration for automated syncing and display of personal media.
@@ -38,6 +39,7 @@ Engineering leader with deep experience guiding cross-functional teams, mentorin
 **Sr Software Development Engineer / Team Lead** | *CVS Health* | *Greenville, South Carolina*
 
 *January 2022 - Present*
+- Led development of the Colleague Assist Toolkit (CAT), an internal Active Directory-backed employee search platform, improving lookup efficiency and enabling secure, API-driven access for automation use cases.
 - Created a unified employee experience dashboard using Aternity DEX metrics combined with other external data sources.
 - Modernized a legacy VB.NET application by rebuilding it with Django and Django REST Framework to enable efficient querying of LDAP and Azure Entra ID objects.
 - Supported and maintained multiple IIS .Net web services for business critical APIs using XML.
