@@ -1,46 +1,31 @@
-<style>
-@page { size: Letter; margin: 0.5in 0.6in; }
-html, body { margin: 0 !important; padding: 0 !important; }
-body { font-family: Calibri, Carlito, "Segoe UI", Arial, sans-serif !important; font-size: 10pt !important; line-height: 1.27 !important; color: #1a1a1a !important; }
-h1 { font-size: 23pt !important; line-height: 1.1 !important; font-weight: 700 !important; text-align: center; color: #1F3864 !important; letter-spacing: 1.5px; margin: 0 0 3px 0 !important; padding: 0 !important; border: 0 !important; }
-h1 + p { text-align: center; font-size: 10pt !important; color: #1F3864 !important; margin: 0 0 2px 0 !important; }
-h1 + p + p { text-align: center; font-size: 9.5pt !important; margin: 0 0 2px 0 !important; }
-h2 { font-size: 11pt !important; line-height: 1.2 !important; font-weight: 700 !important; color: #1F3864 !important; text-transform: uppercase; letter-spacing: 0.8px; border: 0 !important; border-bottom: 1.3px solid #1F3864 !important; padding: 0 0 1px 0 !important; margin: 9px 0 4px 0 !important; }
-p { margin: 0 0 3px 0 !important; }
-ul { margin: 2px 0 5px 0 !important; padding-left: 17px !important; }
-li { margin: 0 0 2px 0 !important; padding: 0 !important; }
-a { color: inherit !important; text-decoration: none !important; }
-</style>
+<div style="font-family: Calibri, Carlito, 'Segoe UI', Arial, sans-serif; font-size:10pt; line-height:1.27; color:#1a1a1a;">
 
-# AARON ROBINSON
+<h1 style="text-align:center; color:#1F3864; font-size:23pt; line-height:1.1; font-weight:700; letter-spacing:1.5px; margin:0 0 3px 0; padding:0; border:0;">AARON ROBINSON</h1>
 
-*Cloud Product Security Engineer | Azure, GCP | Identity and Endpoint Security Automation | Up to 75% Faster Ansible Jobs*
+<p style="text-align:center; color:#1F3864; font-size:10pt; margin:0 0 2px 0;"><em>Cloud Product Security Engineer | Azure, GCP | Identity and Endpoint Security Automation | Up to 75% Faster Ansible Jobs</em></p>
 
-Greenville, SC • 330-620-6093 • robinsonam@gmail.com • [linkedin.com/in/aaron-m-robinson](https://linkedin.com/in/aaron-m-robinson)
+<p style="text-align:center; font-size:9.5pt; margin:0 0 2px 0;">Greenville, SC • 330-620-6093 • robinsonam@gmail.com • <a href="https://linkedin.com/in/aaron-m-robinson" style="color:#1F3864; text-decoration:underline;">linkedin.com/in/aaron-m-robinson</a></p>
 
-## Summary
+<h2 style="font-size:11pt; line-height:1.2; font-weight:700; color:#1F3864; text-transform:uppercase; letter-spacing:0.8px; border:0; border-bottom:1.3px solid #1F3864; padding:0 0 1px 0; margin:9px 0 4px 0;">Summary</h2>
 
-Software and automation engineer with 5 years building and operating production platforms in Azure and GCP, and 15 years in engineering roles at Aetna / CVS Health. Led development of an Active Directory-backed colleague platform on an in-house GKE platform that grew active users 43% in one quarter, and automated endpoint security agent deployment with Ansible alongside security teams. Writes production Python, JavaScript, and Bash, and owns services from design through deployment and production support as technical lead for six engineers. Strongest in identity and access, vulnerability management with Snyk and Qualys, and CI/CD-driven security automation.
+Software and automation engineer with 5 years building and operating production platforms in Azure and GCP, and 15 years in engineering roles at Aetna / CVS Health. Led development of an Active Directory-backed colleague platform on an in-house GKE platform that grew active users 43% in one quarter, and automated endpoint security agent deployment with Ansible alongside security teams. Writes production Python, JavaScript, and Bash, and owns services from design through deployment and production support as technical lead for five engineers. Strongest in identity and access, vulnerability management with Snyk and Qualys, and CI/CD-driven security automation.
 
-## Skills
+<h2 style="font-size:11pt; line-height:1.2; font-weight:700; color:#1F3864; text-transform:uppercase; letter-spacing:0.8px; border:0; border-bottom:1.3px solid #1F3864; padding:0 0 1px 0; margin:9px 0 4px 0;">Skills</h2>
 
-**Cloud Security:** Identity and access (Entra ID, Active Directory, LDAP), privileged-access workflows, vulnerability management and remediation (Snyk, Qualys), endpoint security agent deployment and initial configuration (Qualys, CrowdStrike, DLP), SOX-compliant reporting and export APIs
-
-**Monitoring & Response:** Grafana and XMatters alerting and paging, ServiceNow ticket integration, production support, certificate-expiry dashboards (PowerBI, MSSQL)
-
-**Software Engineering:** Python, JavaScript, Bash, PowerShell, SQL, Groovy, Django and Django REST Framework, FastAPI, REST APIs, Pytest and automated testing, code review, pair programming, SDLC, Git
-
+**Cloud Security:** Identity and access (Entra ID, Active Directory, LDAP), privileged-access workflows, vulnerability management and remediation (Snyk, Qualys), endpoint security agent deployment and initial configuration (Qualys, CrowdStrike, DLP), SOX-compliant reporting and export APIs<br>
+**Monitoring & Response:** Grafana and XMatters alerting and paging, ServiceNow ticket integration, production support, certificate-expiry dashboards (PowerBI, MSSQL)<br>
+**Software Engineering:** Python, JavaScript, Bash, PowerShell, SQL, Groovy, Django and Django REST Framework, FastAPI, REST APIs, Pytest and automated testing, code review, pair programming, SDLC, Git<br>
 **Cloud & Platform:** Azure (Entra ID), GCP (GKE-hosted applications), Docker, CI/CD (GitHub Actions, Jenkins), Ansible (lead developer), Terraform (foundational), Linux and Windows
 
-## Selected Projects
+<h2 style="font-size:11pt; line-height:1.2; font-weight:700; color:#1F3864; text-transform:uppercase; letter-spacing:0.8px; border:0; border-bottom:1.3px solid #1F3864; padding:0 0 1px 0; margin:9px 0 4px 0;">Selected Projects</h2>
 
 - Remote access design (personal): Designed Tailscale remote access for a home network using 2 subnet routers in failover, chosen over a reverse proxy and Cloudflare Tunnel for the smallest attack surface, with no inbound ports opened for remote access.
 - Pi-hole watchdog (personal): Built a watchdog for a home DNS filter using systemd timers, DNS-over-HTTPS retries, and ntfy alerts, detecting and alerting on 2 distinct failure modes (database access loss after a power brownout and an FTL process crash).
 - Protocol reverse engineering (personal): Patched a custom CA certificate into device firmware and rebuilt its checksums, then intercepted API traffic through a MitM proxy to reverse engineer NFC and ESP32-based hardware and mobile app REST APIs with Ghidra, Frida, and Burp Suite.
 
-## Professional Experience
+<h2 style="font-size:11pt; line-height:1.2; font-weight:700; color:#1F3864; text-transform:uppercase; letter-spacing:0.8px; border:0; border-bottom:1.3px solid #1F3864; padding:0 0 1px 0; margin:9px 0 4px 0;">Professional Experience</h2>
 
-**Sr Software Development Engineer / Team Lead** | CVS Health | Greenville, SC | *January 2022 - Present*
+<p style="margin:6px 0 2px 0;"><strong>Sr Software Development Engineer / Team Lead</strong> | CVS Health | Greenville, SC | <em>January 2022 - Present</em></p>
 
 - Led development of CAT, an Active Directory-backed colleague platform on an in-house GKE cluster, shipping SOX-compliant reporting APIs and authenticated automation workflows and growing active users 43% in one quarter.
 - Led migration of ADHelp password reset, OU modification, quota, and privileged read functions into CAT, moving over 90% of functionality with full decommission targeted for year end.
@@ -50,30 +35,30 @@ Software and automation engineer with 5 years building and operating production 
 - Cut perceived LDAP search latency from 10-15 seconds to under 2 seconds with async results that update live and instrumented CAT with Grafana and XMatters alerting and paging.
 - Led a five-engineer team as technical lead (a junior developer mentored through pair programming and code review, four contractors directed day to day), enforcing test and PR review standards and building the Python, SQL, JavaScript, and Go exercise suite used in technical hiring evaluations.
 
-**Systems Engineer** | Aetna / CVS Health | Greenville, SC | *March 2019 - January 2022*
+<p style="margin:6px 0 2px 0;"><strong>Systems Engineer</strong> | Aetna / CVS Health | Greenville, SC | <em>March 2019 - January 2022</em></p>
 
 - Reworked audit scripts for efficiency and raised environment coverage from 25% to 96%.
 - Engineered and documented application packages for development teams and CI/CD pipelines.
 - Led the application team through weekly approvals and process tracking, automating repetitive steps to reduce manual effort while coordinating engineering, packaging, and deployment teams.
 
-**Data Analytics Engineer** | Aetna Life Insurance | Renton, WA | *June 2017 - March 2019*
+<p style="margin:6px 0 2px 0;"><strong>Data Analytics Engineer</strong> | Aetna Life Insurance | Renton, WA | <em>June 2017 - March 2019</em></p>
 
 - Reduced a critical Python script's runtime by 97% through threading, working with data scientists to refine and optimize data processes.
 - Led a team delivering Tableau and Python data solutions that identified business risk and supported decisions.
 
-**Quality Assurance Engineer** | Aetna Life Insurance | Richfield, OH | *April 2011 - June 2017*
+<p style="margin:6px 0 2px 0;"><strong>Quality Assurance Engineer</strong> | Aetna Life Insurance | Richfield, OH | <em>April 2011 - June 2017</em></p>
 
 - Built a custom internal issue tracking solution that improved defect management and team efficiency.
 - Developed and maintained AutoIt automation plugins for an in-house workstation support utility and designed test plans that supported software reliability.
 
-## Education
+<h2 style="font-size:11pt; line-height:1.2; font-weight:700; color:#1F3864; text-transform:uppercase; letter-spacing:0.8px; border:0; border-bottom:1.3px solid #1F3864; padding:0 0 1px 0; margin:9px 0 4px 0;">Education</h2>
 
 Bowling Green State University | B.S., Computer Science | Bowling Green, OH
 
-## Certifications
+<h2 style="font-size:11pt; line-height:1.2; font-weight:700; color:#1F3864; text-transform:uppercase; letter-spacing:0.8px; border:0; border-bottom:1.3px solid #1F3864; padding:0 0 1px 0; margin:9px 0 4px 0;">Certifications</h2>
 
-Microsoft Azure Fundamentals (AZ-900) | ISTQB Foundation Level | SAFe DevOps | Fortinet NSE 4
-
-In progress: CompTIA Security+ | Microsoft SC-300 Identity and Access Administrator
-
+Microsoft Azure Fundamentals (AZ-900) | ISTQB Foundation Level | SAFe DevOps | Fortinet NSE 4<br>
+In progress: CompTIA Security+ | Microsoft SC-300 Identity and Access Administrator<br>
 Training completed, exam not taken: Cisco CCNA | Microsoft AZ-400
+
+</div>
