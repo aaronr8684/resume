@@ -1,88 +1,79 @@
-**AARON ROBINSON**
+<style>
+@page { size: Letter; margin: 0.5in 0.6in; }
+html, body { margin: 0 !important; padding: 0 !important; }
+body { font-family: Calibri, Carlito, "Segoe UI", Arial, sans-serif !important; font-size: 10pt !important; line-height: 1.27 !important; color: #1a1a1a !important; }
+h1 { font-size: 23pt !important; line-height: 1.1 !important; font-weight: 700 !important; text-align: center; color: #1F3864 !important; letter-spacing: 1.5px; margin: 0 0 3px 0 !important; padding: 0 !important; border: 0 !important; }
+h1 + p { text-align: center; font-size: 10pt !important; color: #1F3864 !important; margin: 0 0 2px 0 !important; }
+h1 + p + p { text-align: center; font-size: 9.5pt !important; margin: 0 0 2px 0 !important; }
+h2 { font-size: 11pt !important; line-height: 1.2 !important; font-weight: 700 !important; color: #1F3864 !important; text-transform: uppercase; letter-spacing: 0.8px; border: 0 !important; border-bottom: 1.3px solid #1F3864 !important; padding: 0 0 1px 0 !important; margin: 9px 0 4px 0 !important; }
+p { margin: 0 0 3px 0 !important; }
+ul { margin: 2px 0 5px 0 !important; padding-left: 17px !important; }
+li { margin: 0 0 2px 0 !important; padding: 0 !important; }
+a { color: inherit !important; text-decoration: none !important; }
+</style>
 
-robinsonam@gmail.com | 330-620-6093 | Greenville, South Carolina | [linkedin.com/in/aaron-m-robinson](https://linkedin.com/in/aaron-m-robinson)
+# AARON ROBINSON
 
----
+*Cloud Product Security Engineer | Azure, GCP | Identity and Endpoint Security Automation | Up to 75% Faster Ansible Jobs*
 
-**PROFESSIONAL SUMMARY**
+Greenville, SC • 330-620-6093 • robinsonam@gmail.com • [linkedin.com/in/aaron-m-robinson](https://linkedin.com/in/aaron-m-robinson)
 
-Engineering leader with deep experience guiding cross-functional teams, mentoring developers, and delivering automation-driven infrastructure and application solutions. Skilled at bridging technical execution with team growth, streamlining CI/CD pipelines, and modernizing legacy systems using Python, Ansible, and cloud platforms like Azure and GCP. Known for designing scalable DevOps architectures, driving internal tooling initiatives, and creating practical systems that enhance developer experience, onboarding, and operational efficiency.
+## Summary
 
----
+Software and automation engineer with 5 years building and operating production platforms in Azure and GCP, and 15 years in engineering roles at Aetna / CVS Health. Led development of an Active Directory-backed colleague platform on an in-house GKE platform that grew active users 43% in one quarter, and automated endpoint security agent deployment with Ansible alongside security teams. Writes production Python, JavaScript, and Bash, and owns services from design through deployment and production support as technical lead for six engineers. Strongest in identity and access, vulnerability management with Snyk and Qualys, and CI/CD-driven security automation.
 
-**SKILLS**
+## Skills
 
-- **Programming Languages**: Python, Javascript, Go, Groovy, SQL, PowerShell, Jinja, Bash, AutoIt
-- **Frameworks**: Django, FastAPI, Ninja, Ansible, Pandas, NumPy, PIL, REST APIs, SOAP, Pytest
-- **DevOps & Cloud**: Docker, Jenkins, CircleCI, Github Actions, CI/CD, Git, GitHub, Azure (incl. Azure Entra ID), GCP, PowerBI, Tableau, ServiceNow
-- **Testing & QA**: ISTQB Certified, SAFe DevOps, Automation (AutoIt, Pytest), BDD principles
-- **AI/ML**: AI/ML Concepts, Prompt Engineering, Vertex/Gemini, OpenAI
-- **Certifications**: Azure, ISTQB, SAFe DevOps, Fortinet NSE4, CCNA
-- **Other Tools & Systems**: Raspberry Pi, Ghidra, Frida, Burp Suite, Nextcloud, Windows, Linux, macOS
-- **Leadership & Collaboration**: Technical Mentorship, Cross-Functional Collaboration, Agile/Scrum, Project Planning, Stakeholder Communication, Hiring & Onboarding
+**Cloud Security:** Identity and access (Entra ID, Active Directory, LDAP), privileged-access workflows, vulnerability management and remediation (Snyk, Qualys), endpoint security agent deployment and initial configuration (Qualys, CrowdStrike, DLP), SOX-compliant reporting and export APIs
 
----
+**Monitoring & Response:** Grafana and XMatters alerting and paging, ServiceNow ticket integration, production support, certificate-expiry dashboards (PowerBI, MSSQL)
 
-**RECENT SIDE PROJECTS**
+**Software Engineering:** Python, JavaScript, Bash, PowerShell, SQL, Groovy, Django and Django REST Framework, FastAPI, REST APIs, Pytest and automated testing, code review, pair programming, SDLC, Git
 
-- **Manufacturing** - Design and manufacture precision components using parametric CAD (Autodesk Fusion 360) and FDM/resin additive processes, optimizing for tolerance, strength, and small-batch production efficiency.
-- **Automation** - Developed scripts for QRCode generation and 12-month calendar creation from event lists.
-- **Reverse Engineering** – Analyzed NFC and ESP32-based hardware and mobile app APIs using Ghidra, Burp Suite, and Frida for low-level protocol understanding and Restful API behavior sniffing, spoofing, and replication.
-- **Photo Frame** – Built a smart photo frame with a Raspberry Pi, Python, and Nextcloud integration for automated syncing and display of personal media.
-- **Parser Scripts** – Developed Python scripts for parsing and analyzing images, logs, and raw datasets using libraries such as PIL, NumPy, and Pandas for downstream consumption by analytics applications.
-- **Automated Pi Setup** – Created an Ansible playbook to fully automate Raspberry Pi provisioning, enabling rapid deployment for new projects.
+**Cloud & Platform:** Azure (Entra ID), GCP (GKE-hosted applications), Docker, CI/CD (GitHub Actions, Jenkins), Ansible (lead developer), Terraform (foundational), Linux and Windows
 
----
+## Selected Projects
 
-**EXPERIENCE**
+- Remote access design (personal): Designed Tailscale remote access for a home network using 2 subnet routers in failover, chosen over a reverse proxy and Cloudflare Tunnel for the smallest attack surface, with no inbound ports opened for remote access.
+- Pi-hole watchdog (personal): Built a watchdog for a home DNS filter using systemd timers, DNS-over-HTTPS retries, and ntfy alerts, detecting and alerting on 2 distinct failure modes (database access loss after a power brownout and an FTL process crash).
+- Protocol reverse engineering (personal): Patched a custom CA certificate into device firmware and rebuilt its checksums, then intercepted API traffic through a MitM proxy to reverse engineer NFC and ESP32-based hardware and mobile app REST APIs with Ghidra, Frida, and Burp Suite.
 
-**Sr Software Development Engineer / Team Lead** | *CVS Health* | *Greenville, South Carolina*
+## Professional Experience
 
-*January 2022 - Present*
-- Led development of the Colleague Assist Toolkit (CAT), an internal Active Directory-backed employee search platform, improving lookup efficiency and enabling secure, API-driven access for automation use cases.
-- Created a unified employee experience dashboard using Aternity DEX metrics combined with other external data sources.
-- Modernized a legacy VB.NET application by rebuilding it with Django and Django REST Framework to enable efficient querying of LDAP and Azure Entra ID objects.
-- Supported and maintained multiple IIS .Net web services for business critical APIs using XML.
-- Developed multiple Django-based Dockerized applications to address key customer challenges and improve user experience.
-- Led a team in developing a proof-of-concept AI chatbot using Django, FastAPI, and MongoDB to automate documentation, agile epic/story generation, test data creation, and system diagramming.
-- Developed an in-house code testing methodology and automated exercise suite for Python, SQL, JavaScript, and Go, streamlining technical evaluations for hiring.
-- Established best practices in code management and mentored junior developers to create a robust software development lifecycle.
-- Developed a custom Ansible module in Python to generate real-time ServiceNow ticketing callbacks, enhancing end-user updates.
-- Refactored legacy Ansible code to optimize multi-machine jobs, reducing runtime by up to 75%.
-- Developed an Ansible role framework to automate configuration changes and agent decommissioning via RESTful API integration with a leading security product.
-- Led a tactical team to deploy a PowerBI and MSSQL powered dashboard to identify and remediate expiring certificate to minimize related outages.
-- Created a universal Jenkins pipeline script for cross-repository compatibility, reducing maintenance and preventing configuration drift.
-- Managed and optimized Jenkins CI/CD pipelines ensuring production scalability, stability, and compliance.
-- Extracted, consolidated, and modularized repeated code into a common consumable library for increased efficiency and maintainability.
-- Mentored engineers through regular peer programming, code reviews, and 1-on-1s, instilling best practices and technical expertise.
-- Identified and presented opportunities to management for individual and team-level improvements.
-- Regularly advised external teams in best practices, feedback, and architecture discussions.
+**Sr Software Development Engineer / Team Lead** | CVS Health | Greenville, SC | *January 2022 - Present*
 
-**Systems Engineer** | *Aetna / CVS Health* | *Greenville, South Carolina*
+- Led development of CAT, an Active Directory-backed colleague platform on an in-house GKE cluster, shipping SOX-compliant reporting APIs and authenticated automation workflows and growing active users 43% in one quarter.
+- Led migration of ADHelp password reset, OU modification, quota, and privileged read functions into CAT, moving over 90% of functionality with full decommission targeted for year end.
+- Mentored engineers through design, planning, implementation, and deployment of Qualys automation on GitHub Actions pipelines, extending coverage to new locations and OS types within an automation portfolio that reached 132% of its Q3 time-savings target.
+- Took over lead development of the Ansible codebase within a year of first exposure, cutting multi-machine job runtime by up to 75%, and engineered a role framework that automates endpoint configuration changes and security agent decommissioning through a vendor REST API, working directly with security teams.
+- Remediated 100% of critical and high Snyk findings across CAT and legacy platforms, plus vulnerabilities surfaced by AI code analysis, and led a tactical team that deployed a PowerBI and MSSQL dashboard to catch expiring certificates before they caused outages.
+- Cut perceived LDAP search latency from 10-15 seconds to under 2 seconds with async results that update live and instrumented CAT with Grafana and XMatters alerting and paging.
+- Led a five-engineer team as technical lead (a junior developer mentored through pair programming and code review, four contractors directed day to day), enforcing test and PR review standards and building the Python, SQL, JavaScript, and Go exercise suite used in technical hiring evaluations.
 
-*March 2019 - January 2022*
-- Expert in engineering and documenting application packages tailored for development teams and CI/CD pipelines.
-- Led the application team through weekly approvals and process tracking, reducing time-consuming processes through automation.
-- Demonstrated ability to foster cross-functional coordination among engineering, packaging, and deployment teams.
-- Significantly enhanced audit script efficiency while increasing environment coverage from 25% to an unprecedented 96%.
+**Systems Engineer** | Aetna / CVS Health | Greenville, SC | *March 2019 - January 2022*
 
-**Data Analytics Engineer** | *Aetna Life Insurance* | *Renton, Washington*
+- Reworked audit scripts for efficiency and raised environment coverage from 25% to 96%.
+- Engineered and documented application packages for development teams and CI/CD pipelines.
+- Led the application team through weekly approvals and process tracking, automating repetitive steps to reduce manual effort while coordinating engineering, packaging, and deployment teams.
 
-*June 2017 - March 2019*
-- Collaborated with data scientists to refine and optimize data processes.
-- Reduced critical Python script runtime by 97%, enhancing processing speed and efficiency through threading.
-- Led a team to implement and support intelligent data solutions with Tableau and Python for business risk identification and decision.
+**Data Analytics Engineer** | Aetna Life Insurance | Renton, WA | *June 2017 - March 2019*
 
-**Quality Assurance Engineer** | *Aetna Life Insurance* | *Richfield, Ohio*
+- Reduced a critical Python script's runtime by 97% through threading, working with data scientists to refine and optimize data processes.
+- Led a team delivering Tableau and Python data solutions that identified business risk and supported decisions.
 
-*April 2011 - June 2017*
-- Designed comprehensive test plans and supported high standards of software reliability.
-- Developed a custom built internal issue tracking solution, improving defect management and team efficiency.
-- Developed and maintained automation plugins (AutoIt) for in-house workstation support utility.
+**Quality Assurance Engineer** | Aetna Life Insurance | Richfield, OH | *April 2011 - June 2017*
 
----
+- Built a custom internal issue tracking solution that improved defect management and team efficiency.
+- Developed and maintained AutoIt automation plugins for an in-house workstation support utility and designed test plans that supported software reliability.
 
-**EDUCATION**
+## Education
 
-**B.S. Computer Science**
-*Bowling Green State University, Bowling Green, Ohio*
+Bowling Green State University | B.S., Computer Science | Bowling Green, OH
+
+## Certifications
+
+Microsoft Azure Fundamentals (AZ-900) | ISTQB Foundation Level | SAFe DevOps | Fortinet NSE 4
+
+In progress: CompTIA Security+ | Microsoft SC-300 Identity and Access Administrator
+
+Training completed, exam not taken: Cisco CCNA | Microsoft AZ-400
