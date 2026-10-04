@@ -1,0 +1,10 @@
+html, body { margin: 0 !important; padding: 0 !important; }
+body { font-family: Calibri, Carlito, "Segoe UI", Arial, sans-serif !important; font-size: 10pt !important; line-height: 1.27 !important; color: #1a1a1a !important; }
+h1 { font-size: 23pt !important; line-height: 1.1 !important; font-weight: 700 !important; text-align: center; color: #1F3864 !important; letter-spacing: 1.5px; margin: 0 0 3px 0 !important; padding: 0 !important; border: 0 !important; }
+h1 + p { text-align: center; font-size: 10pt !important; color: #1F3864 !important; margin: 0 0 2px 0 !important; }
+h1 + p + p { text-align: center; font-size: 9.5pt !important; margin: 0 0 2px 0 !important; }
+h2 { font-size: 11pt !important; line-height: 1.2 !important; font-weight: 700 !important; color: #1F3864 !important; text-transform: uppercase; letter-spacing: 0.8px; border: 0 !important; border-bottom: 1.3px solid #1F3864 !important; padding: 0 0 1px 0 !important; margin: 9px 0 4px 0 !important; }
+p { margin: 0 0 3px 0 !important; }
+ul { margin: 2px 0 5px 0 !important; padding-left: 17px !important; }
+li { margin: 0 0 2px 0 !important; padding: 0 !important; }
+a { color: inherit !important; text-decoration: none !important; }
